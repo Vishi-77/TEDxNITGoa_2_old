@@ -79,7 +79,7 @@ const Navbar = () => {
                         <a aria-current="page" className="navbar_lin__yrOtl active" href="/AboutUs">ABOUT US</a>
                         <a className="navbar_lin__yrOtl" href="/Teams">TEAMS</a>
                         <a className="navbar_lin__yrOtl" href="/Sponsors">SPONSORS</a>
-                        <a id="navbar_red__gXnY4" className="navbar_lin__yrOtl" href="/">BUY TICKETS</a>
+                        <a id="navbar_red__gXnY4" className="navbar_lin__yrOtl" href="/BuyTickets">BUY TICKETS</a>
                         <a className="navbar_lin__yrOtl" style={{ color: '#eb0028' }} href="/ContactUs">CONTACT US</a>
                     </div>
                 </div>
